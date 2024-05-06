@@ -1,1 +1,1 @@
-*.msgpack,[[:space:]]*.safetensors,[[:space:]]*.bin,[[:space:]]*.ot,[[:space:]]*.h5 filter=lfs diff=lfs merge=lfs -text
+*.msgpack *.safetensors *.bin *.ot *.h5 filter=lfs diff=lfs merge=lfs -text
